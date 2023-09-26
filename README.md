@@ -15,3 +15,5 @@ The thesis culminates in an exploration of a physical observable of black holes:
         school = "Universidad Técnica Federico Santa María",
         year = "2022"
     }
+
+This file can also be accessed from the [repositories](https://repositorio.usm.cl/handle/11673/53017) of the library of the *Universidad Técnica Federico Santa María*.
